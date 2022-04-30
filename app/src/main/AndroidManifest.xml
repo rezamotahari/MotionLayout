@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="academy.nouri.motionlayoutcourse">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MotionLayout">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".project.detail.ProjectDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".project.home.ProjectHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".project.splash.ProjectSplashActivity"
+            android:exported="true" />
+        <activity
+            android:name=".snapchat.SnapChatActivity"
+            android:exported="true" />
+        <activity
+            android:name=".profile2.Profile2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".movie_card_3d.MovieCard3DActivity"
+            android:exported="true" />
+        <activity
+            android:name=".youtube.YoutubeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".menu_2.Menu2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".movie_2.MovieAppActivity"
+            android:exported="true" />
+        <activity
+            android:name=".loading_button.LoadingButtonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".expandable.ExpandableActivity"
+            android:exported="true" />
+        <activity
+            android:name=".drawer_menu.DrawerMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".houses_images3.HousesImages3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".menu_vertical.MenuVerticalActivity"
+            android:exported="true" />
+        <activity
+            android:name=".houses_images2.HousesImages2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".telegram.TelegramActivity"
+            android:exported="true" />
+        <activity
+            android:name=".check_list.CheckListActivity"
+            android:exported="true" />
+        <activity
+            android:name=".menu.MenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".instagram_story.StoryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".houses_images.HousesImagesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".lock_screen.LockScreenActivity"
+            android:exported="true" />
+        <activity
+            android:name=".profile.ProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".searchbox.SearchBoxActivity"
+            android:exported="true" />
+        <activity
+            android:name=".splash.SplashActivity"
+            android:exported="true" />
+        <activity
+            android:name=".big_header.BigHeaderActivity"
+            android:exported="true" />
+        <activity
+            android:name=".houses.HousesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".login.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".movie.MovieActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

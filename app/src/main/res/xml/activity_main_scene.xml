@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/image2"
+        motion:constraintSetStart="@id/image3"
+        motion:duration="1000">
+        <KeyFrameSet>
+            <KeyAttribute
+                motion:motionTarget="@+id/imageCover"
+                motion:framePosition="100"
+                android:scaleX="1.2" />
+            <KeyAttribute
+                motion:motionTarget="@+id/imageCover"
+                motion:framePosition="100"
+                android:scaleY="1.2" />
+        </KeyFrameSet>
+        <OnClick
+            motion:clickAction="toggle"
+            motion:targetId="@+id/floatingActionButton" />
+        <OnSwipe motion:touchAnchorId="@+id/titleText" />
+    </Transition>
+
+    <ConstraintSet android:id="@+id/image3">
+        <Constraint
+            android:id="@+id/imageCover"
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toTopOf="parent">
+            <CustomAttribute
+                motion:attributeName="saturation"
+                motion:customDimension="0.5dp" />
+        </Constraint>
+        <Constraint
+            android:id="@+id/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@+id/imageCover">
+            <CustomAttribute
+                motion:attributeName="textColor"
+                motion:customColorValue="#6200EE" />
+            <CustomAttribute
+                motion:attributeName="textSize"
+                motion:customDimension="8sp" />
+        </Constraint>
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/image2">
+        <Constraint
+            android:id="@+id/imageCover"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toTopOf="parent">
+            <CustomAttribute
+                motion:attributeName="saturation"
+                motion:customDimension="0dp" />
+        </Constraint>
+        <Constraint
+            android:id="@+id/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@+id/imageCover">
+            <CustomAttribute
+                motion:attributeName="textColor"
+                motion:customColorValue="#FF5722" />
+            <CustomAttribute
+                motion:attributeName="textSize"
+                motion:customDimension="10sp" />
+        </Constraint>
+        <Constraint
+            android:id="@+id/floatingActionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="5dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@+id/imageCover" />
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/test" />
+
+    <Transition
+        motion:constraintSetEnd="@+id/image3"
+        motion:constraintSetStart="@+id/test" />
+
+</MotionScene>

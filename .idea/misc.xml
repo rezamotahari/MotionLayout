@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable-v24/bg_top_rounded_ebony.xml" value="0.37743589743589745" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.225" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable-v24/ic_round_menu_24.xml" value="0.37743589743589745" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/bg_circle_blue.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/bg_circle_blue_2.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/bg_circle_selected.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/bg_circle_unlock.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/bg_rounded_login.xml" value="0.225" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/bg_top_rounded.xml" value="0.24210526315789474" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/bg_unlock_rounded.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_baseline_blur_circular_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_launcher_background.xml" value="0.225" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_access_time_filled_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_add_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_arrow_forward_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_close_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_delete_24.xml" value="0.3351851851851852" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_image_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_lock_open_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_map_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_play_arrow_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_search_24.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/ic_round_sports_tennis_24.xml" value="0.3351851851851852" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/drawable/shape_circular.xml" value="0.38333333333333336" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_big_header.xml" value="0.21666666666666667" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_check_list.xml" value="0.29259259259259257" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_drawer_menu.xml" value="0.24537037037037038" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_expandable.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_houses.xml" value="0.1814814814814815" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_houses_images.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_houses_images2.xml" value="0.1287037037037037" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_houses_images3.xml" value="0.24537037037037038" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_loading_button.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_lock_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_login.xml" value="0.17685185185185184" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_main.xml" value="0.1287037037037037" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_menu.xml" value="0.3074074074074074" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_menu2.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_menu_vertical.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_movie.xml" value="0.1" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_movie_app.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_movie_card_3d.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_profile.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_profile2.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_project1.xml" value="0.3037037037037037" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_project_detail.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_project_home.xml" value="0.23190789473684212" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_project_splash.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_projects_list.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_search_box.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_snap_chat.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_splash.xml" value="0.32037037037037036" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_story.xml" value="0.31203703703703706" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_telegram.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/activity_youtube.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_check_list.xml" value="0.3074074074074074" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_detail_car.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_houses.xml" value="0.1814814814814815" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_images_posts.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_movie_3d.xml" value="0.22314814814814815" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_movie_light.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_movies.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_movies_light.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/item_rent_cars.xml" value="0.36153846153846153" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/layout/story_layout.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/menu/menu_home.xml" value="0.3671875" />
+        <entry key="..\:/MyTutorials/MotionLayout/MotionLayoutCourse/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.225" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
